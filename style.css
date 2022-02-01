@@ -15,9 +15,9 @@ body {
   border: rgb(253, 251, 251) solid;
   width: 300px;
   display: inline-block;
-  }
+}
 
- .fonte {
+.fonte {
   font-family: fantasy;
   font-size:medium;
   color: blue;
