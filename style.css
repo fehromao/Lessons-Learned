@@ -14,3 +14,10 @@ body {
   padding: 50px;
   border: rgb(253, 251, 251) solid;
 }
+
+.fonte {
+  font-family: fantasy;
+  font-size:medium;
+  color: blue;
+  line-height: 1.5;
+}
