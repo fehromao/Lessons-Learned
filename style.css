@@ -8,3 +8,9 @@ body {
   width: 200px;
   border: rgb(253, 251, 251);
 }
+
+#learning {
+  margin: 2px;
+  padding: 50px;
+  border: rgb(253, 251, 251) solid;
+}
