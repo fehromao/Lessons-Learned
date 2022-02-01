@@ -9,17 +9,9 @@ body {
   border: rgb(253, 251, 251);
 }
 
-.learning {
-  margin: 2px;
-  padding: 50px;
-  border: rgb(253, 251, 251) solid;
-  width: 300px;
-  display: inline-block;
-}
-
 .fonte {
   font-family: fantasy;
-  font-size:medium;
+  font-size: medium;
   color: blue;
   line-height: 1.5;
 }
@@ -30,11 +22,17 @@ body {
 }
 
 .lado-esquerdo {
-
+  margin: 2px;
+  padding: 50px;
+  border: rgb(253, 251, 251) solid;
+  width: 300px;
+  display: inline-block;
 }
 
 .lado-direito {
-
+  margin: 2px;
+  padding: 50px;
+  border: rgb(253, 251, 251) solid;
+  width: 300px;
+  display: inline-block;
 }
-
-
