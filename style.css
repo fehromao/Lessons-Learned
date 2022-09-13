@@ -5,7 +5,6 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
-  width: 200px;
   border: rgb(253, 251, 251);
 }
 
@@ -18,7 +17,6 @@ body {
 
 #minha_foto {
   width: 500px;
-  height: 500px;
 }
 
 .lado-esquerdo {
